@@ -12,3 +12,7 @@
     width: 100%;
     position: absolute;
 }
+
+th {
+    text-align: left;
+}
